@@ -12,5 +12,17 @@
         <file>Resources/imgs/icon11.png</file>
         <file>Resources/imgs/mine_n.png</file>
         <file>Resources/imgs/mine_h.png</file>
+        <file>Resources/imgs/codegen_n.png</file>
+        <file>Resources/imgs/codegen_h.png</file>
+        <file>Resources/imgs/templete_n.png</file>
+        <file>Resources/imgs/templete_h.png</file>
+        <file>Resources/imgs/preview_n.png</file>
+        <file>Resources/imgs/preview_h.png</file>
+        <file>Resources/imgs/seeting_n.png</file>
+        <file>Resources/imgs/seeting_h.png</file>
+        <file>Resources/imgs/about_n.png</file>
+        <file>Resources/imgs/about_h.png</file>
+        <file>Resources/imgs/extendtion_n.png</file>
+        <file>Resources/imgs/extendtion_h.png</file>
     </qresource>
 </RCC>

@@ -16,4 +16,15 @@ public:
 	SmartCode(QWidget *parent = Q_NULLPTR);
 private:
 	Ui::SmartCodeClass ui;
+private slots:
+	// “≥√Ê«–ªª
+	void turnAccountPage();
+	void turnAccountPage_t();
+	void turnCodegenPage();
+	void turnCodegenPage_t();
+	void turnPreviewPage();
+	void turnTempletePage();
+	void turnSeetingPage();
+	void turnAboutPage();
+	void turnExtendPage();
 };
