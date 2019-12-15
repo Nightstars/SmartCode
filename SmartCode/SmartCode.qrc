@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/SmartCode">
+        <file>Resources/skins/skin1.jpg</file>
+        <file>Resources/imgs/min_hover.png</file>
+        <file>Resources/imgs/min_normal.png</file>
+        <file>Resources/imgs/close_hover.png</file>
+        <file>Resources/imgs/close_normal.png</file>
+        <file>Resources/imgs/max_hover.png</file>
+        <file>Resources/imgs/max_normal.png</file>
+        <file>Resources/skins/skin7.png</file>
+        <file>Resources/imgs/icon1.png</file>
+        <file>Resources/imgs/icon11.png</file>
+        <file>Resources/imgs/mine_n.png</file>
+        <file>Resources/imgs/mine_h.png</file>
+    </qresource>
+</RCC>
